@@ -1,0 +1,22 @@
+body{
+    font-size: 3rem;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+     background-image: linear-gradient(to bottom,orange,white,green);
+    
+    
+}
+.c1{
+    color:orange
+}
+
+.c2{
+    color:rgb(152, 158, 147)
+}
+
+.c3{
+    color:green
+}
